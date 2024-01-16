@@ -1,0 +1,279 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/rails/Test_job/parcel_schedule/app/controllers/bookings_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          2,
+          2,
+          1,
+          1,
+          1,
+          0,
+          0,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          0,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/home/rails/Test_job/parcel_schedule/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/home/rails/Test_job/parcel_schedule/app/controllers/offers_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/home/rails/Test_job/parcel_schedule/app/controllers/parcels_controller.rb": {
+        "lines": [
+          1,
+          1,
+          3,
+          3,
+          2,
+          null,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/home/rails/Test_job/parcel_schedule/app/controllers/train_operators_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          3,
+          2,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/home/rails/Test_job/parcel_schedule/app/models/booking.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/home/rails/Test_job/parcel_schedule/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/home/rails/Test_job/parcel_schedule/app/models/line.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/home/rails/Test_job/parcel_schedule/app/models/offer.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/home/rails/Test_job/parcel_schedule/app/models/parcel_owner.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/home/rails/Test_job/parcel_schedule/app/models/parcel.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/home/rails/Test_job/parcel_schedule/app/models/train_operator.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/home/rails/Test_job/parcel_schedule/app/models/train.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null
+        ]
+      },
+      "/home/rails/Test_job/parcel_schedule/app/channels/application_cable/channel.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/rails/Test_job/parcel_schedule/app/channels/application_cable/connection.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/rails/Test_job/parcel_schedule/app/helpers/application_helper.rb": {
+        "lines": [
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/rails/Test_job/parcel_schedule/app/helpers/bookings_helper.rb": {
+        "lines": [
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/rails/Test_job/parcel_schedule/app/helpers/offers_helper.rb": {
+        "lines": [
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/rails/Test_job/parcel_schedule/app/helpers/parcels_helper.rb": {
+        "lines": [
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/rails/Test_job/parcel_schedule/app/helpers/postmaster_helper.rb": {
+        "lines": [
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/rails/Test_job/parcel_schedule/app/helpers/train_operators_helper.rb": {
+        "lines": [
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/rails/Test_job/parcel_schedule/app/jobs/application_job.rb": {
+        "lines": [
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/rails/Test_job/parcel_schedule/app/mailers/application_mailer.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/rails/Test_job/parcel_schedule/app/workers/train_unavailable_worker.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          null,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      }
+    },
+    "timestamp": 1705316019
+  }
+}
